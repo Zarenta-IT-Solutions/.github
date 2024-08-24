@@ -41,8 +41,8 @@ At Zarenta IT Solutions, we have successfully completed a wide range of projects
 
 We'd love to hear from you! If you have a project in mind or need any assistance with your technology needs, feel free to contact us:
 
-- **Email**: [info@zarentaitsolutions.com](mailto:info@zarentaitsolutions.com)
-- **Website**: [www.zarentaitsolutions.com](http://www.zarentaitsolutions.com)
+- **Email**: [info@zarenta.com](mailto:info@zarenta.com)
+- **Website**: [www.zarenta.com](http://www.zarenta.com)
 - **LinkedIn**: [Zarenta IT Solutions](https://www.linkedin.com/company/zarenta-it-solutions)
 
 ## License
